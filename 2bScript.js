@@ -2,7 +2,7 @@
 let countryInp = document.getElementById('country-inp');
 let countriesDD = document.getElementById('countries')
 
-// jQuery - slideDown animaatio informaatiolle
+// Haku nappia ("Search") painamalla jQuery - slideDown animaatio haetun maan informaatiolle
 $("#search-btn").on("click", function () {
   $("#result").slideDown(400);
 
