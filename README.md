@@ -14,7 +14,8 @@ Web-sovellukseen tehty muutoksia käytettävyyden kannalta, joten ulkomuoto on v
 Koodiin on myös lisätty kommentointia ja JavaScript -koodissa käytetty jQueryn syntakseja.
 Visuaalisuudessa hyödynnetty mm. jQueryn slideDown() -efektiä.
 
-[Netlify linkki löytyy täältä!](https://glittering-seahorse-f85d8a.netlify.app/)
+
+Sovelluksen 2b [Netlify linkki löytyy täältä!](https://glittering-seahorse-f85d8a.netlify.app/)
 
 **Lähteet:**
 
